@@ -1,5 +1,6 @@
 These are the firmware images for the 3rd-part IC chip on Freescale development boards.
 The table is given below:
 VSC7385:     VSC7385.bin
+Cortina phy:   cs4315-cs4340-PHY-ucode.txt
 
 For specifics on how to use these binaries, please refer to the SDK user manual.
